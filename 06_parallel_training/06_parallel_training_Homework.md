@@ -2,7 +2,7 @@
 
 The report of the result at https://wandb.ai/luei/WordPlay/reports/Report--Vmlldzo3Mzk2NDM3
 
-The screenshot of the training is below:
+The screenshot of the training:
 ![screenshot](screenshot.jpg)
 
 The log files of the training:
